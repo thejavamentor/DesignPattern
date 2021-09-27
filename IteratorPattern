@@ -1,0 +1,9 @@
+Iterator design pattern.
+The iterator pattern provides a way to access the elements of an aggregate object without exposing its underlying representation.
+
+Please refer site for more details.
+
+https://www.geeksforgeeks.org/iterator-pattern/
+
+
+
