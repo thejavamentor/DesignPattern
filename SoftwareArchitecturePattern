@@ -1,0 +1,12 @@
+Softwaer Architucture Pattern contains 5 pattern as enlisted below.
+
+1. Layered Architucture Pattern
+2. Event Driven Architucture Pattern
+3. Microkernael Architucture Pattern
+4. Microservices Architecuture Pattern
+5. Space-Based Architucture Pattern
+The magic of the space-based architecture pattern lies in the virtual‐
+ized middleware components and the in-memory data grid con‐
+tained within each processing unit.
+
+https://get.oreilly.com/rs/107-FMS-070/images/Software-Architecture-Patterns.pdf
